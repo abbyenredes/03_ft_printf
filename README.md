@@ -56,7 +56,7 @@ Primero me documente sobre el comportamiento de prinf, aqui un pequeño resumen:
 
 | Entrada y salida de datos | Descripción |
 | ------------- | ------------- |
-| [ft_printf](URL)  | Imprime la salida formateada en la salida estándar de acuerdo con el especificador de formato en la cadena de entrada str. Siendo **str**: la cadena de entrada terminada en nulo que contiene el especificador de formato, y **…** – Argumentos opcionales que se formatearán según el especificador de formato. |
+| [ft_printf](https://github.com/abbyenredes/03_ft_printf)  | Imprime la salida formateada en la salida estándar de acuerdo con el especificador de formato en la cadena de entrada str. Siendo **str**: la cadena de entrada terminada en nulo que contiene el especificador de formato, y **…** – Argumentos opcionales que se formatearán según el especificador de formato. |
 
 
 | Especificador de formato | Indican a las funciones variadicas el tipo de argumento con el que irá a trabajar. |
@@ -88,7 +88,7 @@ Primero me documente sobre el comportamiento de prinf, aqui un pequeño resumen:
 
 #### Reutilizar funciones de la libft
 
-Recuerdas nuestra querida [libft](), es momento de reutilizar algunas funciones, mi recomendación personal es que intentemos ponerlas en un solo archivo c, recuerda que la norma establece que no debe haber más de 5 funciones por archivo.
+Recuerdas nuestra querida [libft](https://github.com/abbyenredes/00_libft), es momento de reutilizar algunas funciones, mi recomendación personal es que intentemos ponerlas en un solo archivo c, recuerda que la norma establece que no debe haber más de 5 funciones por archivo.
 
 #### Funciones recicladas:
 
